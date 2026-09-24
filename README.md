@@ -1,7 +1,7 @@
 ![Sargis Khachikyan — Flutter Developer](banner.svg)
 
 
-I build mobile applications with **Flutter and Dart**, with two years of programming study and practice through personal projects.
+I build mobile applications with **Flutter and Dart**, with three years of hands-on programming experience, including independent projects.
 
 
 Focused on reusable interfaces, organized application logic, and learning something new every day. **Open to remote opportunities**, independently or as part of a team.
